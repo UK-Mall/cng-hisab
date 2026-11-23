@@ -1,0 +1,12 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="90" fill="#0f766e"/>
+  <text x="256" y="115" font-size="65" text-anchor="middle" font-weight="bold" fill="white">CNG</text>
+  <path d="M100 290 L145 220 Q155 200 180 200 H330 Q355 200 370 220 L415 290 V365 H100 Z" fill="#ffffff"/>
+  <circle cx="170" cy="365" r="42" fill="#172b2b"/>
+  <circle cx="345" cy="365" r="42" fill="#172b2b"/>
+  <circle cx="170" cy="365" r="17" fill="#d1d5db"/>
+  <circle cx="345" cy="365" r="17" fill="#d1d5db"/>
+  <path d="M175 220 H335 L370 280 H140 Z" fill="#99e6dc"/>
+  <path d="M80 300 H432" stroke="#0f766e" stroke-width="12"/>
+</svg>

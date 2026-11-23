@@ -1,0 +1,19 @@
+
+{
+  "name": "CNG হিসাব ব্যবস্থাপনা",
+  "short_name": "CNG হিসাব",
+  "description": "গাড়ির দৈনিক আয় ও খরচের হিসাব",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f1f7f5",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/cng-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
